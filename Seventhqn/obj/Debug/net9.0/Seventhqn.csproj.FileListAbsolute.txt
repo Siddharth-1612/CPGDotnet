@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Seventhqn/bin/Debug/net9.0/Seventhqn
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Seventhqn/bin/Debug/net9.0/Seventhqn.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Seventhqn/bin/Debug/net9.0/Seventhqn.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Seventhqn/bin/Debug/net9.0/Seventhqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Seventhqn/bin/Debug/net9.0/Seventhqn.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Seventhqn/obj/Debug/net9.0/Seventhqn.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Seventhqn/obj/Debug/net9.0/Seventhqn.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Seventhqn/obj/Debug/net9.0/Seventhqn.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Seventhqn/obj/Debug/net9.0/Seventhqn.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Seventhqn/obj/Debug/net9.0/Seventhqn.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Seventhqn/obj/Debug/net9.0/Seventhqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Seventhqn/obj/Debug/net9.0/refint/Seventhqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Seventhqn/obj/Debug/net9.0/Seventhqn.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Seventhqn/obj/Debug/net9.0/Seventhqn.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Seventhqn/obj/Debug/net9.0/ref/Seventhqn.dll

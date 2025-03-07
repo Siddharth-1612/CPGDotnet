@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Thirdqn/bin/Debug/net9.0/Thirdqn
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Thirdqn/bin/Debug/net9.0/Thirdqn.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Thirdqn/bin/Debug/net9.0/Thirdqn.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Thirdqn/bin/Debug/net9.0/Thirdqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Thirdqn/bin/Debug/net9.0/Thirdqn.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Thirdqn/obj/Debug/net9.0/Thirdqn.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Thirdqn/obj/Debug/net9.0/Thirdqn.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Thirdqn/obj/Debug/net9.0/Thirdqn.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Thirdqn/obj/Debug/net9.0/Thirdqn.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Thirdqn/obj/Debug/net9.0/Thirdqn.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Thirdqn/obj/Debug/net9.0/Thirdqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Thirdqn/obj/Debug/net9.0/refint/Thirdqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Thirdqn/obj/Debug/net9.0/Thirdqn.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Thirdqn/obj/Debug/net9.0/Thirdqn.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Thirdqn/obj/Debug/net9.0/ref/Thirdqn.dll

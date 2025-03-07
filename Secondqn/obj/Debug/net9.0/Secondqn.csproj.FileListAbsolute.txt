@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Secondqn/obj/Debug/net9.0/Secondqn.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Secondqn/obj/Debug/net9.0/Secondqn.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Secondqn/obj/Debug/net9.0/Secondqn.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Secondqn/obj/Debug/net9.0/Secondqn.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Secondqn/obj/Debug/net9.0/Secondqn.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Secondqn/bin/Debug/net9.0/Secondqn
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Secondqn/bin/Debug/net9.0/Secondqn.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Secondqn/bin/Debug/net9.0/Secondqn.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Secondqn/bin/Debug/net9.0/Secondqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Secondqn/bin/Debug/net9.0/Secondqn.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Secondqn/obj/Debug/net9.0/Secondqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Secondqn/obj/Debug/net9.0/refint/Secondqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Secondqn/obj/Debug/net9.0/Secondqn.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Secondqn/obj/Debug/net9.0/Secondqn.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Secondqn/obj/Debug/net9.0/ref/Secondqn.dll

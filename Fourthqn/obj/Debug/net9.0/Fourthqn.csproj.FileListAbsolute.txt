@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fourthqn/bin/Debug/net9.0/Fourthqn
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fourthqn/bin/Debug/net9.0/Fourthqn.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fourthqn/bin/Debug/net9.0/Fourthqn.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fourthqn/bin/Debug/net9.0/Fourthqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fourthqn/bin/Debug/net9.0/Fourthqn.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fourthqn/obj/Debug/net9.0/Fourthqn.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fourthqn/obj/Debug/net9.0/Fourthqn.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fourthqn/obj/Debug/net9.0/Fourthqn.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fourthqn/obj/Debug/net9.0/Fourthqn.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fourthqn/obj/Debug/net9.0/Fourthqn.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fourthqn/obj/Debug/net9.0/Fourthqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fourthqn/obj/Debug/net9.0/refint/Fourthqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fourthqn/obj/Debug/net9.0/Fourthqn.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fourthqn/obj/Debug/net9.0/Fourthqn.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fourthqn/obj/Debug/net9.0/ref/Fourthqn.dll

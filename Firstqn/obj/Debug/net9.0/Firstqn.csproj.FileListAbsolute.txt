@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Firstqn/obj/Debug/net9.0/Firstqn.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Firstqn/obj/Debug/net9.0/Firstqn.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Firstqn/obj/Debug/net9.0/Firstqn.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Firstqn/obj/Debug/net9.0/Firstqn.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Firstqn/obj/Debug/net9.0/Firstqn.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Firstqn/bin/Debug/net9.0/Firstqn
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Firstqn/bin/Debug/net9.0/Firstqn.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Firstqn/bin/Debug/net9.0/Firstqn.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Firstqn/bin/Debug/net9.0/Firstqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Firstqn/bin/Debug/net9.0/Firstqn.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Firstqn/obj/Debug/net9.0/Firstqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Firstqn/obj/Debug/net9.0/refint/Firstqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Firstqn/obj/Debug/net9.0/Firstqn.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Firstqn/obj/Debug/net9.0/Firstqn.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Firstqn/obj/Debug/net9.0/ref/Firstqn.dll

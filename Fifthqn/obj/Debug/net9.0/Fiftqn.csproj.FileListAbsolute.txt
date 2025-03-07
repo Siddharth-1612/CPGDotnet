@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fifthqn/bin/Debug/net9.0/Fiftqn
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fifthqn/bin/Debug/net9.0/Fiftqn.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fifthqn/bin/Debug/net9.0/Fiftqn.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fifthqn/bin/Debug/net9.0/Fiftqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fifthqn/bin/Debug/net9.0/Fiftqn.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fifthqn/obj/Debug/net9.0/Fiftqn.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fifthqn/obj/Debug/net9.0/Fiftqn.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fifthqn/obj/Debug/net9.0/Fiftqn.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fifthqn/obj/Debug/net9.0/Fiftqn.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fifthqn/obj/Debug/net9.0/Fiftqn.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fifthqn/obj/Debug/net9.0/Fiftqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fifthqn/obj/Debug/net9.0/refint/Fiftqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fifthqn/obj/Debug/net9.0/Fiftqn.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fifthqn/obj/Debug/net9.0/Fiftqn.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Fifthqn/obj/Debug/net9.0/ref/Fiftqn.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Seventhqn/1.0.0": {
+        "runtime": {
+          "Seventhqn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seventhqn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
