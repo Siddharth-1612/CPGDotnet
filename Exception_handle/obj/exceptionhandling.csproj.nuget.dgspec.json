@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/iamsid/Desktop/CAPGCOURSE/Practice/exceptionhandling/exceptionhandling.csproj": {}
+    "/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/exceptionhandling.csproj": {}
   },
   "projects": {
-    "/home/iamsid/Desktop/CAPGCOURSE/Practice/exceptionhandling/exceptionhandling.csproj": {
+    "/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/exceptionhandling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/iamsid/Desktop/CAPGCOURSE/Practice/exceptionhandling/exceptionhandling.csproj",
+        "projectUniqueName": "/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/exceptionhandling.csproj",
         "projectName": "exceptionhandling",
-        "projectPath": "/home/iamsid/Desktop/CAPGCOURSE/Practice/exceptionhandling/exceptionhandling.csproj",
+        "projectPath": "/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/exceptionhandling.csproj",
         "packagesPath": "/home/iamsid/.nuget/packages/",
-        "outputPath": "/home/iamsid/Desktop/CAPGCOURSE/Practice/exceptionhandling/obj/",
+        "outputPath": "/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/iamsid/.nuget/NuGet/NuGet.Config"

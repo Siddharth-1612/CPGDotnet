@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/bin/Debug/net9.0/exceptionhandling
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/bin/Debug/net9.0/exceptionhandling.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/bin/Debug/net9.0/exceptionhandling.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/bin/Debug/net9.0/exceptionhandling.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/bin/Debug/net9.0/exceptionhandling.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/obj/Debug/net9.0/exceptionhandling.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/obj/Debug/net9.0/exceptionhandling.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/obj/Debug/net9.0/exceptionhandling.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/obj/Debug/net9.0/exceptionhandling.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/obj/Debug/net9.0/exceptionhandling.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/obj/Debug/net9.0/exceptionhandling.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/obj/Debug/net9.0/refint/exceptionhandling.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/obj/Debug/net9.0/exceptionhandling.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/obj/Debug/net9.0/exceptionhandling.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/Exception_handle/obj/Debug/net9.0/ref/exceptionhandling.dll
