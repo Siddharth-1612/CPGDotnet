@@ -1,0 +1,15 @@
+/home/iamsid/Desktop/CAPGCOURSE/Practice/tenthqn/bin/Debug/net9.0/tenthqn
+/home/iamsid/Desktop/CAPGCOURSE/Practice/tenthqn/bin/Debug/net9.0/tenthqn.deps.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/tenthqn/bin/Debug/net9.0/tenthqn.runtimeconfig.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/tenthqn/bin/Debug/net9.0/tenthqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/tenthqn/bin/Debug/net9.0/tenthqn.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Practice/tenthqn/obj/Debug/net9.0/tenthqn.GeneratedMSBuildEditorConfig.editorconfig
+/home/iamsid/Desktop/CAPGCOURSE/Practice/tenthqn/obj/Debug/net9.0/tenthqn.AssemblyInfoInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/tenthqn/obj/Debug/net9.0/tenthqn.AssemblyInfo.cs
+/home/iamsid/Desktop/CAPGCOURSE/Practice/tenthqn/obj/Debug/net9.0/tenthqn.csproj.CoreCompileInputs.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/tenthqn/obj/Debug/net9.0/tenthqn.sourcelink.json
+/home/iamsid/Desktop/CAPGCOURSE/Practice/tenthqn/obj/Debug/net9.0/tenthqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/tenthqn/obj/Debug/net9.0/refint/tenthqn.dll
+/home/iamsid/Desktop/CAPGCOURSE/Practice/tenthqn/obj/Debug/net9.0/tenthqn.pdb
+/home/iamsid/Desktop/CAPGCOURSE/Practice/tenthqn/obj/Debug/net9.0/tenthqn.genruntimeconfig.cache
+/home/iamsid/Desktop/CAPGCOURSE/Practice/tenthqn/obj/Debug/net9.0/ref/tenthqn.dll
