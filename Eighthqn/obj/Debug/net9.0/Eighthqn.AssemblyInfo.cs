@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eighthqn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42813bfd6b1ef7469cbc9a26e97cc574355d4298")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+539aeeae0225194c56b410e6985b0817a9e490be")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eighthqn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eighthqn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
