@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sixthqn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9478179d33eba1e5828a46fb668283b0d63d9039")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8c5c4f90490050cc5b01fb0a55e81aae087abf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sixthqn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sixthqn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
