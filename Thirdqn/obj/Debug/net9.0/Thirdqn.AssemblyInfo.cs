@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Thirdqn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8c5c4f90490050cc5b01fb0a55e81aae087abf2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6e77342822f59dc16c1105af24e8f475ff7be0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Thirdqn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Thirdqn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
