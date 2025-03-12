@@ -1,9 +1,15 @@
 ﻿using System;
 
+    class public Myexception:Exception
+    {
+        public override string Message => "Internal error occured";
+
+    }
 class Program
 {
     static void Main()
     {
+
         try
         {
             //int[] numbers = { 1, 2, 3, 4, 5 };
@@ -27,6 +33,5 @@ class Program
         finally
         {
             Console.WriteLine("Execution completed.");
-        }
     }
 }
