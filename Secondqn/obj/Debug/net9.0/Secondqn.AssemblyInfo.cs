@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Secondqn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6e77342822f59dc16c1105af24e8f475ff7be0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f36788852691b71713548877534470e6d3f692d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Secondqn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Secondqn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
